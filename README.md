@@ -1,4 +1,4 @@
-### Olá, é um prazer ter você aqui 👋
+### Welcome to my GitHub profile, where code and creativity meet! 👋
 <div align="left">
   <a href="https://github.com/felipePSH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipepsh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   </div>
   <hr>
   <div>
-    <h2>Conheça minhas Redes Sociais</h2>
+    <h2>Links to my social media profiles</h2>
     <a href="https://www.instagram.com/lipe_code/">
     <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
