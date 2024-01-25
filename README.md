@@ -2,7 +2,7 @@
 <div align="left">
   <a href="https://github.com/felipePSH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipepsh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepsh&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepsh&layout=compact&langs_count=7&theme=light"/>
     </div>  
   <div align="left">
     <img height="30em" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
