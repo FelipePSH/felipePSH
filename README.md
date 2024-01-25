@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile, where code and creativity meet! 👋
 <div align="left">
   <a href="https://github.com/felipePSH">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipepsh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipepsh&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepsh&layout=compact&langs_count=7&theme=light"/>
     </div>  
   <div align="left">
