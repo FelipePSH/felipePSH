@@ -11,7 +11,7 @@ Hello! I'm **Felipe Pereira dos Santos**, an Android Developer passionate about 
 
 ### 🔥 About Me
 ✅ Focused on **Android development**, leveraging **Kotlin, Java, Jetpack Compose, MVVM, and Clean Architecture**.  
-✅ Experienced in **biometric authentication, real-time notifications, Firebase integrations, and API development**.  
+✅ Experienced in **biometric authentication, real-time notifications, Firebase integrations, API development, WebSockets, and Supabase**.  
 ✅ Passionate about **code quality, best practices, and mentoring junior developers**.  
 ✅ Enthusiast of **tech trends, open-source contributions, and knowledge sharing**.  
 
@@ -24,15 +24,17 @@ Hello! I'm **Felipe Pereira dos Santos**, an Android Developer passionate about 
   <img height="30em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img height="30em" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img height="30em" src="https://img.shields.io/badge/WebSockets-008080?style=for-the-badge&logo=websocket&logoColor=white"/>
 </div>
 
 ---
 
 ### 💡 What I'm Working On
 - **🚀 Android & Kotlin Multiplatform (KMP)** – Exploring scalable solutions for mobile applications.
-- **📱 UI/UX Enhancements** – Building smooth, accessible, and beautiful interfaces with **Jetpack Compose**.
+- **📱 UI/UX Enhancements** – Building smooth, accessible, and beautiful interfaces with **Jetpack Compose** and **Material 3**.
 - **⚡ Performance Optimization** – Reducing load times, improving responsiveness, and enhancing user experience.
+- **🔗 WebSockets & Real-time Data** – Implementing robust real-time applications with **Coroutines and Supabase**.
 
 ---
 
@@ -45,7 +47,7 @@ Hello! I'm **Felipe Pereira dos Santos**, an Android Developer passionate about 
 #### **🏡 Smart Property Automation** | *CasaBella Cleaning Co.*
 - Developed software for **automated invoice generation, service contracting, and payroll automation**.
 - Used **Kotlin Multiplatform (KMP), Supabase, and Next.js** for backend integration.
-- Built **real-time notifications** for property managers and guests.
+- Built **real-time notifications** for property managers and guests using **WebSockets**.
 
 #### **💳 Banking & Payment Security App** | *Inmetrics (Brazil)*
 - Designed and implemented **secure authentication mechanisms**.
