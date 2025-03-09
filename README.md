@@ -3,7 +3,7 @@
 
 Hello! I'm **Felipe Pereira dos Santos**, an Android Developer passionate about building scalable, high-performance applications that make an impact. With **3+ years of experience**, I've worked in **startups, banking, payments, SaaS, and software consulting**, delivering high-quality mobile solutions.
 
-📍 **Brisbane, Australia**  
+📍 **Australia**  
 📧 **felipe.au.pereira.santos@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/felipepsh/) | [GitHub](https://github.com/FelipePSH)
 
