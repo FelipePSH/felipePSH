@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile! 🚀
 ### Android Engineering · Kotlin · Java · Jetpack Compose · Clean Architecture · Firebase
 
-I'm **Felipe Pereira dos Santos**, a seasoned Android Engineer with over **7 years of experience** building scalable, secure, and user-focused mobile applications across Brazil and Australia. My work spans multiple sectors including fintech, logistics, healthcare, SaaS, and startups, consistently delivering high-quality, performance-driven solutions.
+I'm **Felipe Pereira dos Santos**, android Engineer with over **7 years of experience** building scalable, secure, and user-focused mobile applications across Brazil and Australia. My work spans multiple sectors including fintech, logistics, healthcare, SaaS, and startups, consistently delivering high-quality, performance-driven solutions.
 
 📍 **Sydney, Australia**  
 📧 **felipe.au.pereira.santos@gmail.com**  
